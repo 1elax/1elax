@@ -42,8 +42,8 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winterr4077&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=1elax&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1elax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <hr>
@@ -51,7 +51,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://discord.com/users/562225306501513216" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Winterr4077%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord-Relax%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
 
